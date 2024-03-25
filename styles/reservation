@@ -1,0 +1,9 @@
+.recipes{
+  background-color: #0a2750;
+  background-image: url(../images/background_recipes.svg);
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  height: 100vh;
+  color: #fff;
+}
