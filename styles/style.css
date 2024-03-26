@@ -16,7 +16,7 @@
     list-style-type: none;
   }
 
-  .page {
+.page {
     max-width: 1600px;
     min-width: 1100px;
     width: 100%;
@@ -24,15 +24,15 @@
     font-size:16px;
     line-height: 20px;
     margin: 0 auto;
-  }
+}
 
-  .nav{
+.nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
 
-  .nav__logo{
+.nav__logo{
     position: relative;
     top:30px;
     left:30px;
@@ -40,7 +40,7 @@
     height:39px;
   }
 
-  .nav__links{
+.nav__links{
     display:flex;
     position: relative;
     top:30px;
@@ -495,7 +495,7 @@
   .footer__social-link:focus {
     color: #c1c1c1;
   }
-  
+
   .footer__social-icon {
     width: 16px;
     height: 16px;
